@@ -23,6 +23,8 @@
 
 [RL Course by David Silver - DeepMind](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
 
+[Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/x)
+
 ## Some math courses that help to understand ML
 [MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) with video
   * just well designed course about linear algebra (matrix factorizations, SVD, PCA, etc).
