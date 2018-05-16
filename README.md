@@ -58,8 +58,15 @@
 # CS
 [CS 224: Advanced Algorithms - Harvard](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html)
 
+[6.006: Introduction to Algorithms - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+
+[6.046J/18.410J: Design and Analysis of Algorithms - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
+
+[6.849: Geometric Folding Algorithms: Linkages, Origami, Polyhedra - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/index.htm)
+
 [6.890: Algorithmic Lower Bounds: Fun with Hardness Proofs - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/index.htm)
 
+[6.851: Advanced Data Structures - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm)
 
 ## Epilogue
 
