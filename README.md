@@ -32,7 +32,7 @@
 [MIT 6.041 / 6.431: Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) with video
   * really good introduction into probability.
 
-[Real Analysis course at Harvey Mudd College (follows baby Rudin)](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
+[Real Analysis course at Harvey Mudd College (follows baby Rudin)](http://analysisyawp.blogspot.com/) [youtube](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
 
 ## Magazines/Articles
 [Journal of Machine Learning Research](http://www.jmlr.org/)
